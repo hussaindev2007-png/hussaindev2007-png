@@ -47,7 +47,8 @@
 ### 🤝 Connect With Me:
 <p align="left">
   📧 **hussaindev2007@gmail.com**
-   <a href="[https://your-portfolio.netlify.app](https://www.linkedin.com/in/hussain-developer-46517238a/)" target="_blank">
+   <a href="(https://www.linkedin.com/in/hussain-developer-46517238a/)" target="_blank">
+     <a href="(https://www.linkedin.com/in/hussain-developer-46517238a/)" target="_blank">Linkdin</a>
 </p>
 
 ---
