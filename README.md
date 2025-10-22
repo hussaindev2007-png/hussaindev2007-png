@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End Web Developer from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <a href="https://informationes.netlify.app/protfolio" target="_blank">
+  <a href="https://informationes.netlify.app/" target="_blank">
     🌐 Visit My Portfolio
   </a>
 </p>
