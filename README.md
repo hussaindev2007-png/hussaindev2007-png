@@ -47,7 +47,7 @@
 ### 🤝 Connect With Me:
 <p align="left">
   📧 **hussaindev2007@gmail.com**
-  <a href="https://www.linkedin.com/in/hussain-developer-46517238a/" target="_blank">
+  <a href="https://www.linkedin.com/in/hussaindev/" target="_blank">
     🌐 Visit My Linkedin profile
   </a>
 </p>
