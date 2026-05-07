@@ -17,7 +17,7 @@
 - 📫 How to reach me: **hussaindev2007@gmail.com**
 - ⚡ Fun fact: *I love learning new design trends!*
 - 🚀 Building modern and responsive Front-End Projects while continuously improving my skills.
-Check out my portfolio here: [https://hussainesportfolio.netlify.app/]/*
+Check out my portfolio here: [https://hussainesportfolio.netlify.app]
 
 
 ---
